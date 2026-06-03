@@ -161,9 +161,7 @@ python_dsa/
 
 ## 🔖 Resources I'm Using
 
-- 📘 **Book:** *Introduction to Algorithms* (CLRS)
-- 📘 **Book:** *Grokking Algorithms* — Aditya Bhargava *(great for visual learners)*
-- 🎥 **Course:** CS50 / NeetCode / Abdul Bari on YouTube
+- 🎥 **Course:** Python from W3Schools https://www.w3schools.com/python/default.asp
 - 💻 **Practice:** [LeetCode](https://leetcode.com) · [HackerRank](https://hackerrank.com)
 
 ---

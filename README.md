@@ -161,7 +161,7 @@ python_dsa/
 
 ## 🔖 Resources I'm Using
 
-- 🎥 **Course:** Python from W3Schools https://www.w3schools.com/python/default.asp
+- 🎥 **Course:** Python from [W3Schools](https://www.w3schools.com/python/default.asp)
 - 💻 **Practice:** [LeetCode](https://leetcode.com) · [HackerRank](https://hackerrank.com)
 
 ---
